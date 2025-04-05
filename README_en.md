@@ -234,22 +234,6 @@ Some common questions:
     - If Redis has no password, leave it blank
     - Be careful to modify `token.secretKey` , otherwise the security of token cannot be guaranteed.
 
-## QQ chat group
-
-QQ chat group: [(951286996](https://qm.qq.com/cgi-bin/qm/qr?k=XLX0hSw6GGuOgNbC53r-Pc7Lrubwcm4q&authKey=AaNuGPfAWTSyaN6MR5yGYFQ0+4AKsZQq7kI0uRASo+v5ttyrc6xvh7gfNEMQ7UDR&noverify=0) )
-
-Tg group: [https://t.me/+1rau4SBwFyE1OTA1](https://t.me/+1rau4SBwFyE1OTA1)
-
-This group is a learning and communication group. If you have any program-related questions, please submit issues directly.
-
-## Soft
-
-<div class="half">   <img alt="describe" style="width:420px" src="https://res.cloudinary.com/dxl1idlr5/image/upload/v1689829207/%E7%99%BB%E8%AE%B0%E8%AF%81%E4%B9%A6_2023R11L0135975__mosaic_wgmw6p.jpg" width="50%"> </div>
-
-## Open Source Agreement
-
-GPL-3.0 license © pipipi-pikachu
-
 ## Commercial Use
 
 - If you want to use this project for commercial purposes, I hope you can strictly follow the GPL-3.0 agreement;
